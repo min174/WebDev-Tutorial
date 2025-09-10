@@ -1,0 +1,8 @@
+Cascading Style Sheets (CSS) is used to format the layout of a weboage.
+
+Cascading means that a style appied to a parent element will also apply to all children elements within the parent.
+
+there are 3 ways of applying CSS to a HTML document:
+Inline- the style attribute inside HTML elements
+Internal - the style element is in the head section
+External - a link element is used to link to an external CSS file

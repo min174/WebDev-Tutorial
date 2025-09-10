@@ -1,0 +1,41 @@
+body {
+	background-color: #FFF4E9;
+	font-family: 'outfit', serif;
+	padding: 10px;
+}
+
+.pic {
+  background-color: #FFA69E;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px; /* This creates a soft, pill-like shape! */
+  color: white; <!-- rounds edges on picture -->
+}
+
+h1, h2, h3 {
+	color: #FFA69E;
+}
+
+p {
+	color: #6C4B4B;
+}
+
+a {
+	color: #D68C9D;	
+	font-weight: bold;
+}
+
+a:active {
+	color: pink;
+}
+
+a:hover {
+    color: #FFA69E;
+}
+
+.tab:hover {
+    border-left: 4px solid #D68C9D; 
+}
+
+
+	
