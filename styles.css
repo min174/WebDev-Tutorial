@@ -9,7 +9,7 @@ body {
   padding: 10px 20px;
   border: none;
   border-radius: 20px; /* This creates a soft, pill-like shape! */
-  color: white; <!-- rounds edges on picture -->
+  color: white; /* rounds edges on picture */
 }
 
 h1, h2, h3 {
